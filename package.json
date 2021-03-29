@@ -1,0 +1,19 @@
+{
+  "name": "kristinahw2",
+  "version": "1.0.0",
+  "description": "Kristina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krsizo/Kristina.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krsizo/Kristina/issues"
+  },
+  "homepage": "https://github.com/krsizo/Kristina#readme"
+}
